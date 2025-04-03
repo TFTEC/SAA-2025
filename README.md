@@ -5,7 +5,7 @@ Reunimos aqui um FAQ detalhado para os alunos, além de recursos essenciais. Pre
 
 ---
 
-Acesse nosso FAQ aqui: [FAQs ‐ SAA 2025](https://github.com/TFTEC/intensivao-az104/wiki/FAQs-%E2%80%90-Intensiv%C3%A3o-AZ%E2%80%90104)
+Acesse nosso FAQ aqui: [FAQs ‐ SAA 2025](https://github.com/TFTEC/saa-2025/wiki/FAQs-%E2%80%90-SAA-2025)
 
 ---
 
