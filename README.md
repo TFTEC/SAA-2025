@@ -24,10 +24,9 @@ Cada projeto foi avaliado pela equipe de projetos da TFTEC com base em critério
 
 ## 📝 Os Projetos
 
-- [Adan Martinez](https://github.com/TFTEC/Adan-Martinez_SAA/blob/main/Adan%20Martinez-SAA.pdf)
-- Alexandre Gonçalves
-- Alexandre Santana Assumpção
-- Anderson Colin
+- [Adan Martinez](https://github.com/TFTEC/Projetos-SAA/blob/main/Adan%20Martinez-SAA.pdf)
+- [Alexandre Gonçalves](https://github.com/TFTEC/Projetos-SAA/blob/main/Alexandre%20Gon%C3%A7alves-SAA.pdf)
+- [Anderson Colin](https://github.com/TFTEC/Projetos-SAA/blob/main/Anderson%20Colin-SAA.pdf)
 - Antonio M Luciano Junior
 - Brenda Gabriéle De Moraes
 - Bruno Dal Olio Santos
